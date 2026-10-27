@@ -1,0 +1,6 @@
+{
+  "name": "The Sovereign Barber Co. - Luxury Grooming & Booking",
+  "description": "Premium gentlemen's barbershop website with customer accounts, appointment scheduling, master barber selection, and service history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
